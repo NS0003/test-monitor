@@ -254,5 +254,12 @@
     "token": "factory/inj188veuqed0dygkcmq5d24u3807n6csv4wdv28gh/wagmi",
     "icon": "/img/WAGMI.png",
     "decimals": 9
+  },
+  {
+    "protocol": "Test Token",
+    "symbol": "WAGMI",
+    "token": "factory/inj188veuqed0dygdasdaskcmq5d24u3807n6csv4wdv28gh/wagmi",
+    "icon": "/img/WAGMI.png",
+    "decimals": 9
   }
 ]
